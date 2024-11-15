@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "333982810572",
+    "project_id": "servicenest-e84a5",
+    "storage_bucket": "servicenest-e84a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333982810572:android:f8d1bc102a07cc2e655d69",
+        "android_client_info": {
+          "package_name": "com.example.service_nest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClGh9lrLms_MJZwevDP06le6wdBojJFVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
